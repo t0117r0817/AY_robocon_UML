@@ -6,5 +6,8 @@
   <packagedElement xmi:type="uml:Class" xmi:id="_PHwrkDbmEeqhOca5ZbBgpQ" name="Class2"/>
   <packagedElement xmi:type="uml:Class" xmi:id="_c1tpUDbmEeqhOca5ZbBgpQ" name="Class3"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_qFrqkDbmEeqhOca5ZbBgpQ" name="Actor4"/>
-  <packagedElement xmi:type="uml:Package" xmi:id="_rAqsIDbmEeqhOca5ZbBgpQ" name="Package5"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_rAqsIDbmEeqhOca5ZbBgpQ" name="Package5">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_W3-qIDbnEeqhOca5ZbBgpQ" name="ブロックビンゴを攻略する"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_ZQD70DbnEeqhOca5ZbBgpQ" name="ゴールする"/>
+  </packagedElement>
 </uml:Model>
