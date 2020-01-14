@@ -83,7 +83,7 @@
         <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rAtvcjbmEeqhOca5ZbBgpQ"/>
       </children>
       <element href="AY_robocon.uml#_rAqsIDbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rAtIYTbmEeqhOca5ZbBgpQ" x="300" y="120"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rAtIYTbmEeqhOca5ZbBgpQ" x="240" y="80"/>
     </children>
     <styles xsi:type="notation:StringValueStyle" xmi:id="_pr4qgTbmEeqhOca5ZbBgpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
     <styles xsi:type="notation:DiagramStyle" xmi:id="_pr4qgjbmEeqhOca5ZbBgpQ"/>
