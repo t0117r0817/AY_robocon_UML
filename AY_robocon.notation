@@ -24,7 +24,33 @@
       <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiusjbmEeqhOca5ZbBgpQ"/>
     </children>
     <element href="AY_robocon.uml#_PHwrkDbmEeqhOca5ZbBgpQ"/>
-    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIIfADbmEeqhOca5ZbBgpQ" x="260" y="100"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIIfADbmEeqhOca5ZbBgpQ" x="120" y="80"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_c1vegDbmEeqhOca5ZbBgpQ" type="Class_Shape">
+    <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoDbmEeqhOca5ZbBgpQ" type="Class_NameLabel"/>
+    <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoTbmEeqhOca5ZbBgpQ" type="Class_FloatingNameLabel">
+      <layoutConstraint xsi:type="notation:Location" xmi:id="_c1wsojbmEeqhOca5ZbBgpQ" y="15"/>
+    </children>
+    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTsDbmEeqhOca5ZbBgpQ" type="Class_AttributeCompartment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTsTbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTsjbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTszbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTtDbmEeqhOca5ZbBgpQ"/>
+    </children>
+    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTtTbmEeqhOca5ZbBgpQ" type="Class_OperationCompartment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTtjbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTtzbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTuDbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTuTbmEeqhOca5ZbBgpQ"/>
+    </children>
+    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTujbmEeqhOca5ZbBgpQ" type="Class_NestedClassifierCompartment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTuzbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTvDbmEeqhOca5ZbBgpQ"/>
+      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTvTbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTvjbmEeqhOca5ZbBgpQ"/>
+    </children>
+    <element href="AY_robocon.uml#_c1tpUDbmEeqhOca5ZbBgpQ"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1vegTbmEeqhOca5ZbBgpQ" x="340" y="100"/>
   </children>
   <styles xsi:type="notation:StringValueStyle" xmi:id="_F7nsIDbmEeqhOca5ZbBgpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xsi:type="notation:DiagramStyle" xmi:id="_F7nsITbmEeqhOca5ZbBgpQ"/>
