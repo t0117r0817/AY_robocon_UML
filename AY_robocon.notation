@@ -1,61 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmi:id="_F7nFEDbmEeqhOca5ZbBgpQ" type="PapyrusUMLClassDiagram" name="NewClassDiagram" measurementUnit="Pixel">
-  <children xsi:type="notation:Shape" xmi:id="_PIH38DbmEeqhOca5ZbBgpQ" type="Class_Shape">
-    <children xsi:type="notation:DecorationNode" xmi:id="_PIfEUDbmEeqhOca5ZbBgpQ" type="Class_NameLabel"/>
-    <children xsi:type="notation:DecorationNode" xmi:id="_PIfEUTbmEeqhOca5ZbBgpQ" type="Class_FloatingNameLabel">
-      <layoutConstraint xsi:type="notation:Location" xmi:id="_PIfEUjbmEeqhOca5ZbBgpQ" y="15"/>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_F7nFEDbmEeqhOca5ZbBgpQ" type="PapyrusUMLClassDiagram" name="NewClassDiagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_PIH38DbmEeqhOca5ZbBgpQ" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PIfEUDbmEeqhOca5ZbBgpQ" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PIfEUTbmEeqhOca5ZbBgpQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PIfEUjbmEeqhOca5ZbBgpQ" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHoDbmEeqhOca5ZbBgpQ" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHoTbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_PIiHojbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiHozbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiHpDbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHpTbmEeqhOca5ZbBgpQ" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHpjbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_PIiHpzbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiHqDbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiHqTbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHqjbmEeqhOca5ZbBgpQ" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHqzbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_PIiusDbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiusTbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiusjbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <element href="AY_robocon.uml#_PHwrkDbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIIfADbmEeqhOca5ZbBgpQ" x="120" y="80"/>
     </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHoDbmEeqhOca5ZbBgpQ" type="Class_AttributeCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHoTbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_PIiHojbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiHozbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiHpDbmEeqhOca5ZbBgpQ"/>
+    <children xsi:type="notation:Shape" xmi:id="_c1vegDbmEeqhOca5ZbBgpQ" type="Class_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoDbmEeqhOca5ZbBgpQ" type="Class_NameLabel"/>
+      <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoTbmEeqhOca5ZbBgpQ" type="Class_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_c1wsojbmEeqhOca5ZbBgpQ" y="15"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTsDbmEeqhOca5ZbBgpQ" type="Class_AttributeCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTsTbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTsjbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTszbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTtDbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTtTbmEeqhOca5ZbBgpQ" type="Class_OperationCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTtjbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTtzbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTuDbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTuTbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTujbmEeqhOca5ZbBgpQ" type="Class_NestedClassifierCompartment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTuzbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTvDbmEeqhOca5ZbBgpQ"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTvTbmEeqhOca5ZbBgpQ"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTvjbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <element href="AY_robocon.uml#_c1tpUDbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1vegTbmEeqhOca5ZbBgpQ" x="340" y="100"/>
     </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHpTbmEeqhOca5ZbBgpQ" type="Class_OperationCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHpjbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_PIiHpzbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiHqDbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiHqTbmEeqhOca5ZbBgpQ"/>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_F7nsIDbmEeqhOca5ZbBgpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_F7nsITbmEeqhOca5ZbBgpQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_F7nsIjbmEeqhOca5ZbBgpQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
+    </styles>
+    <element href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_pr4qgDbmEeqhOca5ZbBgpQ" type="UseCase" name="NewUseCaseDiagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_qFuG0DbmEeqhOca5ZbBgpQ" type="Actor_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_qFvU8DbmEeqhOca5ZbBgpQ" type="Actor_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_qFvU8TbmEeqhOca5ZbBgpQ" y="15"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_qFvU8jbmEeqhOca5ZbBgpQ" type="Actor_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_qFvU8zbmEeqhOca5ZbBgpQ" x="20" y="100"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_qFvU9DbmEeqhOca5ZbBgpQ" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_qFv8ADbmEeqhOca5ZbBgpQ" x="20" y="80"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_qFv8ATbmEeqhOca5ZbBgpQ" type="Actor_FloatingNameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_qFv8AjbmEeqhOca5ZbBgpQ" y="15"/>
+      </children>
+      <element href="AY_robocon.uml#_qFrqkDbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_qFuG0TbmEeqhOca5ZbBgpQ" x="182" y="141"/>
     </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_PIiHqjbmEeqhOca5ZbBgpQ" type="Class_NestedClassifierCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_PIiHqzbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_PIiusDbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_PIiusTbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIiusjbmEeqhOca5ZbBgpQ"/>
+    <children xsi:type="notation:Shape" xmi:id="_rAtIYDbmEeqhOca5ZbBgpQ" type="Package_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_rAtvcDbmEeqhOca5ZbBgpQ" type="Package_NameLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_rAtvcTbmEeqhOca5ZbBgpQ" type="Package_PackagedElementCompartment">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rAtvcjbmEeqhOca5ZbBgpQ"/>
+      </children>
+      <element href="AY_robocon.uml#_rAqsIDbmEeqhOca5ZbBgpQ"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_rAtIYTbmEeqhOca5ZbBgpQ" x="300" y="120"/>
     </children>
-    <element href="AY_robocon.uml#_PHwrkDbmEeqhOca5ZbBgpQ"/>
-    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PIIfADbmEeqhOca5ZbBgpQ" x="120" y="80"/>
-  </children>
-  <children xsi:type="notation:Shape" xmi:id="_c1vegDbmEeqhOca5ZbBgpQ" type="Class_Shape">
-    <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoDbmEeqhOca5ZbBgpQ" type="Class_NameLabel"/>
-    <children xsi:type="notation:DecorationNode" xmi:id="_c1wsoTbmEeqhOca5ZbBgpQ" type="Class_FloatingNameLabel">
-      <layoutConstraint xsi:type="notation:Location" xmi:id="_c1wsojbmEeqhOca5ZbBgpQ" y="15"/>
-    </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTsDbmEeqhOca5ZbBgpQ" type="Class_AttributeCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTsTbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTsjbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTszbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTtDbmEeqhOca5ZbBgpQ"/>
-    </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTtTbmEeqhOca5ZbBgpQ" type="Class_OperationCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTtjbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTtzbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTuDbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTuTbmEeqhOca5ZbBgpQ"/>
-    </children>
-    <children xsi:type="notation:BasicCompartment" xmi:id="_c1xTujbmEeqhOca5ZbBgpQ" type="Class_NestedClassifierCompartment">
-      <styles xsi:type="notation:TitleStyle" xmi:id="_c1xTuzbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:SortingStyle" xmi:id="_c1xTvDbmEeqhOca5ZbBgpQ"/>
-      <styles xsi:type="notation:FilteringStyle" xmi:id="_c1xTvTbmEeqhOca5ZbBgpQ"/>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1xTvjbmEeqhOca5ZbBgpQ"/>
-    </children>
-    <element href="AY_robocon.uml#_c1tpUDbmEeqhOca5ZbBgpQ"/>
-    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_c1vegTbmEeqhOca5ZbBgpQ" x="340" y="100"/>
-  </children>
-  <styles xsi:type="notation:StringValueStyle" xmi:id="_F7nsIDbmEeqhOca5ZbBgpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
-  <styles xsi:type="notation:DiagramStyle" xmi:id="_F7nsITbmEeqhOca5ZbBgpQ"/>
-  <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_F7nsIjbmEeqhOca5ZbBgpQ" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
-    <owner href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
-  </styles>
-  <element href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
-</notation:Diagram>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_pr4qgTbmEeqhOca5ZbBgpQ" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_pr4qgjbmEeqhOca5ZbBgpQ"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_pr4qgzbmEeqhOca5ZbBgpQ" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
+    </styles>
+    <element href="AY_robocon.uml#_vl6A0DIjEeqsNa1zH-k-Tw"/>
+  </notation:Diagram>
+</xmi:XMI>
